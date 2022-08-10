@@ -2233,6 +2233,16 @@ ul {
   border-left: 1px solid rgb(15, 22, 41);
   height: 80px;
 }
+.event__card--icon-uia::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -23px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 80px;
+}
 .event__card--icon-uib::before {
   position: absolute;
   display: inline-block;
