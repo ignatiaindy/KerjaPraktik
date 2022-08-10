@@ -326,8 +326,198 @@
                                             <img class="feature__wrapper--icon-1-middle"
                                                 src="assets/images/academic/icon/code.png" alt="icon">
                                         </div>
+                                    </div>
                                 </div>
-                           
+      
+        <div class="event__area p-relative pb-100 pt-120">
+                    <div class="container event__width">
+                        <div class="row">
+                            <div class="col-lg-8 pr-80">
+                                <div class="event__section-wrapper">
+                                    <div class="event__content-wrapper mb-45">
+                                        <h2 class="event__title">Syarat Pendaftaran</h2>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">01</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-area">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-3">WNI dan berdomisili di seluruh Indonesia</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">02</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-line">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-5">Minimal SMA/Sederajat</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">03</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-line1">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-6">Wajib mengikuti kelas bootcamp <br> sesuai dengan jadwal yang  ditentukan</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">04</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-area">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-7">Berkomitmen untuk menyelesaikan  <br> program bootcamp sampai selesai</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">05</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-area">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-3">Mempunyai passion dibidang IT dan  <br> mempunyai semangat untuk belaja</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">06</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-line6">
+                                                <span class="event__card--icon-area-1"></span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-8">Memiliki laptop dengan<br> spesifikasi minimal : <br> 
+                                                OS : Linux OS (Ubuntu) / Windows<br> 32/64 bit / MacOS <br>
+                                                Min Memory : 4GB RAM Memory</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+               
+               
+                 <div class="event__area1 p-relative pb-100 pt-120">
+                    <div class="container event__width">
+                        <div class="row">
+                            <div class="col-lg-8 pr-80">
+                                <div class="event__section-wrapper">
+                                    <div class="event__content-wrapper mb-45">
+                                        <h2 class="event__title">Alur <br> Pendaftaran</h2>
+                                        
+                                    </div>
+                                    <div class="event__card-wrapper1">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">01</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-ui">
+                                                <span class="event__card--icon-area-1a">
+                                                    <br>PENDAFTARAN</br>
+                                                </span>
+                                                
+                                                <p class="event__card--icon-area-4">Mengisi formulir pendaftaran</p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                                <a>1 - 24 July 2022</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper1">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">02</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-uia">
+                                                <span class="event__card--icon-area-1a">
+                                                    <br>SELEKSI</br>
+                                                </span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-4">Dilakukan secara online <br> meliputi General Knowledge dan Logical Thinking Test pukul 16.30 WIB</br></p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                                <a>28 July 2022</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="event__card-wrapper1">
+                                        <div class="event__card">
+                                            <div class="event__card--date-area">
+                                                <span class="event__card--date-area-1">03</span>
+                                                <span class="event__card--date-area-2"></span>
+                                            </div>
+                                            <div class="event__card--icon-uib">
+                                                <span class="event__card--icon-area-1a">
+                                                    <br>PELAKSANAAN</br>
+                                                </span>
+                                                <span class="event__card--icon-area-2"></span>
+                                                <p class="event__card--icon-area-4">Peserta terpilih akan mengikuti pelatihan intensif </p>
+                                            </div>
+                                            <div class="event__card--btn">
+                                                <a>Aug - Oct 2022</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="event__video-btn text-end">
+                                    <img class="m-img image-background" src="assets/images/event/bannner.jpg" alt="Video Image">
+                                    <div class="event__video-btn--play">
+                                    <a href="https://www.youtube.com/watch?v=3sP7eff9YCk" class="event__video-btn--play-btn popup-videos">
+                                        <i class="arrow_triangle-right"></i>
+                                    </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+               
                                 
                               
                         

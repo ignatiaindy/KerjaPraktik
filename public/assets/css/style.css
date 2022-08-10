@@ -362,7 +362,7 @@ ul {
     padding: 10px 50px;
     bottom: 90%;
 
-    box-shadow: 0px 0px 20px rgba(49, 49, 49, 0.4);
+    box-shadow: 11px 11px 30px -7px rgba(49, 49, 49, 0.4);
     
   }
 
@@ -371,16 +371,14 @@ ul {
     color: #000000;
     font-size: 15px;
     font-weight: 500;
-    border-radius: 10px;
+    border-radius: 15px;
     display: inline-block;
     padding: 1px 15px;
     
 
-    box-shadow: 0px 0px 20px rgba(49, 49, 49, 0.4);
+    box-shadow: 11px 11px 30px -7px rgba(49, 49, 49, 0.4);
     
   }
-  
-
   
 
 .back-btn-border {
@@ -2089,8 +2087,20 @@ ul {
     10. Event Section CSS Here
 ****************************/
 .event__area {
+  
   background-color: #ffffff;
+  margin-top: -200px;
+  
+  
 }
+.event__area1 {
+  
+  background-color: #ffffff00;
+  margin-top: -80px;
+  
+  
+}
+
 .event__title {
   font-size: 40px;
   font-weight: 800;
@@ -2108,6 +2118,14 @@ ul {
   border-radius: 10px;
   box-shadow: 0px 30px 50px 0px rgba(0, 15, 56, 0.1);
   background-color: #ffffff;
+  margin-right: -460px;
+  margin-left: 660px;
+}
+.event__card-wrapper1 {
+  border-radius: 10px;
+  box-shadow: 0px 30px 50px 0px rgba(0, 15, 56, 0.1);
+  background-color: #ffffff;
+  
 }
 .event__card {
   display: flex;
@@ -2135,15 +2153,95 @@ ul {
 .event__card--icon-area {
   position: relative;
 }
+.event__card--icon-line {
+  position: relative;
+}
+.event__card--icon-line1 {
+  position: relative;
+}
+.event__card--icon-line6 {
+  position: relative;
+}
+.event__card--icon-ui {
+  position: relative;
+}
+.event__card--icon-uib {
+  position: relative;
+}
+.event__card--icon-uia {
+  position: relative;
+}
+
 .event__card--icon-area::before {
   position: absolute;
   display: inline-block;
   content: "";
-  top: 0;
-  left: -35px;
-  bottom: 20%;
-  border-left: 1px solid rgba(15, 22, 41, 0.078);
+  top: 20%;
+  left: -23px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+
+.event__card--icon-line::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -24px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+.event__card--icon-line1::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -25px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+.event__card--icon-line6::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 10%;
+  left: -25px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 140px;
+}
+.event__card--icon-ui::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -25px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+.event__card--icon-uia::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -23px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
   height: 80px;
+}
+.event__card--icon-uib::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -25px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
 }
 .event__card--icon-area-1 {
   font-size: 14px;
@@ -2155,6 +2253,14 @@ ul {
 .event__card--icon-area-1 .icon {
   height: 17px;
 }
+.event__card--icon-area-1a {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000000;
+  padding-top: 50%;
+  padding-right: 250px;
+
+}
 .event__card--icon-area-2 {
   font-size: 14px;
   font-weight: 500;
@@ -2165,12 +2271,49 @@ ul {
   height: 17px;
 }
 .event__card--icon-area-3 {
-  font-size: 20px;
-  font-weight: 800;
+  font-size: 15px;
+  font-weight: 400;
   color: #020334;
-  padding-top: 6px;
+  padding-top: 2px;
+  padding-bottom: 30px;
   margin: 0;
 }
+.event__card--icon-area-4 {
+  font-size: 12px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+.event__card--icon-area-5 {
+  font-size: 15px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 110px
+}
+.event__card--icon-area-7 {
+  font-size: 15px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 40px
+}
+.event__card--icon-area-8 {
+  font-size: 15px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 1px
+}
+
 .event__card--btn {
   padding-right: 40px;
 }
@@ -2197,7 +2340,7 @@ ul {
 }
 .event__video-btn .image-background {
   position: relative;
-  height: 650px;
+  height: 600px;
   width: 370px;
 }
 .event__video-btn--play {
