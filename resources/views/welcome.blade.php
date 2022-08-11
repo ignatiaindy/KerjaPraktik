@@ -438,7 +438,7 @@
                 </div>
                
                
-                 <!-- <div class="event__area1 p-relative pb-100 pt-120">
+                 <div class="event__area1 p-relative pb-100 pt-120">
                     <div class="container event__width">
                         <div class="row">
                             <div class="col-lg-8 pr-80">
@@ -515,7 +515,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 
                
                                 
