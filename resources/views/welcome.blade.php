@@ -343,9 +343,8 @@
                                                 <span class="event__card--date-area-1">01</span>
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
-                                            <div class="event__card--icon-area">
+                                            <div class="event__card--icon-line1">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
                                                 <p class="event__card--icon-area-3">WNI dan berdomisili di seluruh Indonesia</p>
                                             </div>
                                             <div class="event__card--btn">
@@ -358,10 +357,9 @@
                                                 <span class="event__card--date-area-1">02</span>
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
-                                            <div class="event__card--icon-line">
+                                            <div class="event__card--icon-line2">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-5">Minimal SMA/Sederajat</p>
+                                                <p class="event__card--icon-area-4">Minimal SMA/Sederajat</p>
                                             </div>
                                             <div class="event__card--btn">
                                             </div>
@@ -373,10 +371,9 @@
                                                 <span class="event__card--date-area-1">03</span>
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
-                                            <div class="event__card--icon-line1">
+                                            <div class="event__card--icon-line3">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-6">Wajib mengikuti kelas bootcamp <br> sesuai dengan jadwal yang  ditentukan</p>
+                                                <p class="event__card--icon-area-5">Wajib mengikuti kelas bootcamp <br> sesuai dengan jadwal yang  ditentukan</p>
                                             </div>
                                             <div class="event__card--btn">
                                             </div>
@@ -388,10 +385,9 @@
                                                 <span class="event__card--date-area-1">04</span>
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
-                                            <div class="event__card--icon-area">
+                                            <div class="event__card--icon-line4">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-7">Berkomitmen untuk menyelesaikan  <br> program bootcamp sampai selesai</p>
+                                                <p class="event__card--icon-area-6">Berkomitmen untuk menyelesaikan  <br> program bootcamp sampai selesai</p>
                                             </div>
                                             <div class="event__card--btn">
                                             </div>
@@ -403,10 +399,9 @@
                                                 <span class="event__card--date-area-1">05</span>
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
-                                            <div class="event__card--icon-area">
+                                            <div class="event__card--icon-line5">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-3">Mempunyai passion dibidang IT dan  <br> mempunyai semangat untuk belaja</p>
+                                                <p class="event__card--icon-area-7">Mempunyai passion dibidang IT dan  <br> mempunyai semangat untuk belaja</p>
                                             </div>
                                             <div class="event__card--btn">
                                             </div>
@@ -420,15 +415,19 @@
                                             </div>
                                             <div class="event__card--icon-line6">
                                                 <span class="event__card--icon-area-1"></span>
-                                                <span class="event__card--icon-area-2"></span>
                                                 <p class="event__card--icon-area-8">Memiliki laptop dengan<br> spesifikasi minimal : <br> 
-                                                OS : Linux OS (Ubuntu) / Windows<br> 32/64 bit / MacOS <br>
-                                                Min Memory : 4GB RAM Memory</p>
+                                                OS : Linux OS (Ubuntu) / <br>Windows 32/64 bit / MacOS <br>
+                                                Min Memory : 4GB RAM Memory</br></p>
                                             </div>
                                             <div class="event__card--btn">
                                             </div>
                                         </div>
                                     </div>
+
+                                <div class="event__video-btn text-end">
+                                    <img class="m-img gif-background" src="assets/images/event/1.gif" alt="Video Image">
+                                </div>
+                            </div>
                                     
                                 </div>
                             </div>
@@ -458,7 +457,7 @@
                                                     <br>PENDAFTARAN</br>
                                                 </span>
                                                 
-                                                <p class="event__card--icon-area-4">Mengisi formulir pendaftaran</p>
+                                                <p class="event__card--icon-area-ui">Mengisi formulir pendaftaran</p>
                                             </div>
                                             <div class="event__card--btn">
                                                 <a>1 - 24 July 2022</a>
@@ -472,11 +471,11 @@
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
                                             <div class="event__card--icon-uia">
-                                                <span class="event__card--icon-area-1a">
+                                                <span class="event__card--icon-area-1b">
                                                     <br>SELEKSI</br>
                                                 </span>
                                                 <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-4">Dilakukan secara online <br> meliputi General Knowledge dan Logical Thinking Test pukul 16.30 WIB</br></p>
+                                                <p class="event__card--icon-area-uia">Dilakukan secara online <br> meliputi General Knowledge dan Logical Thinking Test <br>pukul 16.30 WIB</br></p>
                                             </div>
                                             <div class="event__card--btn">
                                                 <a>28 July 2022</a>
@@ -490,11 +489,11 @@
                                                 <span class="event__card--date-area-2"></span>
                                             </div>
                                             <div class="event__card--icon-uib">
-                                                <span class="event__card--icon-area-1a">
+                                                <span class="event__card--icon-area-1c">
                                                     <br>PELAKSANAAN</br>
                                                 </span>
                                                 <span class="event__card--icon-area-2"></span>
-                                                <p class="event__card--icon-area-4">Peserta terpilih akan mengikuti pelatihan intensif </p>
+                                                <p class="event__card--icon-area-uib">Peserta terpilih akan mengikuti pelatihan intensif </p>
                                             </div>
                                             <div class="event__card--btn">
                                                 <a>Aug - Oct 2022</a>
@@ -516,7 +515,101 @@
                             </div>
                         </div>
                     </div>
-                
+                    <div class="back-blog__area blog__area pt-90 pb-120">
+                    <div class="container blog__width">
+                        <div class="back__title__section text-center">
+                            <h2 class="back__tittle"> Blog </h2>
+                        </div>
+                        <div class="row">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="blog__card mb-50">
+                                    <div class="blog__thumb w-img p-relative">
+                                        <a class="blog__thumb--image" href="">
+                                            <img src="assets/images/blog/1.jpg" alt="This the first card image">
+                                        </a>
+                                        <a class="blog__thumb--pre-title" href="blog.html">Article</a>
+                                    </div>
+                                    <div class="blog__card--content">
+                                        <div class="blog__card--content-area mb-25">
+                                            <span class="blog__card--date">Agustus 08, 2022</span>
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Ngoding With View </a></h3>
+                                            <h6 ><a>탓할 일이 누가 즐거움도 찾는 있겠는가? 회피하는 때문에 누리는 수도 고통을 자체를 얻을 노력을 않는 상황이 회피하는 탓할 고통을 없는데 사람이 상황이 마찬가지로, 사람을 마찬가지로, 때문에 사람을 고통 고통을 있는 일이 </a></h6>
+                                            <a class="blog__card--link" href="blog-details.html"> Read more <i class="arrow_right blog__card--link-icon"></i></a>
+                                        </div>
+                                        <div class="blog__card--icon ">
+                                            <div class="blog__card--icon-1">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                                <span>Goodwin Charl</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="blog__card mb-50">
+                                    <div class="blog__thumb w-img p-relative">
+                                        <a class="blog__thumb--image" href="">
+                                            <img src="assets/images/blog/2.jpg" alt="This the first card image">
+                                        </a>
+                                        <a class="blog__thumb--pre-title" href="blog.html">Article</a>
+                                    </div>
+                                    <div class="blog__card--content">
+                                        <div class="blog__card--content-area mb-25">
+                                            <span class="blog__card--date">Agustus 08, 2022</span>
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Future World </a></h3>
+                                            <h6 ><a>탓할 일이 누가 즐거움도 찾는 있겠는가? 회피하는 때문에 누리는 수도 고통을 자체를 얻을 노력을 않는 상황이 회피하는 탓할 고통을 없는데 사람이 상황이 마찬가지로, 사람을 마찬가지로, 때문에 사람을 고통 고통을 있는 일이 </a></h6>
+                                            <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a>
+                                        </div>
+                                        <div class="blog__card--icon ">
+                                            <div class="blog__card--icon-1">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                                <span>Goodwin Charl</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="blog__card mb-50">
+                                    <div class="blog__thumb w-img p-relative">
+                                        <a class="blog__thumb--image" href="blog-details.html">
+                                            <img src="assets/images/blog/3.jpg" alt="This the first card image">
+                                        </a>
+                                        <a class="blog__thumb--pre-title" href="blog.html">Article</a>
+                                    </div>
+                                    <div class="blog__card--content">
+                                        <div class="blog__card--content-area mb-25">
+                                            <span class="blog__card--date">Agustus 08, 2022</span>
+                                            <h3 class="blog__card--title"><a href="blog-details.html">Backend Programming</a></h3>
+                                            <h6 ><a>탓할 일이 누가 즐거움도 찾는 있겠는가? 회피하는 때문에 누리는 수도 고통을 자체를 얻을 노력을 않는 상황이 회피하는 탓할 고통을 없는데 사람이 상황이 마찬가지로, 사람을 마찬가지로, 때문에 사람을 고통 고통을 있는 일이 </a></h6>
+                                            <a class="blog__card--link" href="blog-details.html">Read more<i class="arrow_right blog__card--link-icon"></i></a>
+                                        </div>
+                                        <div class="blog__card--icon ">
+                                            <div class="blog__card--icon-1">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                                <span>Goodwin Charl</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                     </div>
+                 </div>
+             </div>
+        </div>
+ </div>
+    <div class="testimonial bg-color-white testimonial-card-box-bg edu-section-gap position-relative bg-image">
+            <div class="container eduvibe-animated-shape">
+                <div class="row g-5">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                        <h2 class="back__tittle"> Apa Kata Alumni </h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="edu-testimonial-activation testimonial-item-3 mt--40 edu-slick-button">
                
                                 
                               

@@ -3,41 +3,54 @@
 
 
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 200;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 300;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 500;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 800;
-  src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap) format('truetype');
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  src: url(http://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf) format('truetype');
+}
+
 html,
 br {
   line-height: 150%;
@@ -45,7 +58,7 @@ br {
 body {
   font-size: 16px;
   color: #252525;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
   vertical-align: baseline;
   font-weight: 400;
   overflow-x: hidden;
@@ -64,7 +77,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #020334;
   margin: 0 0 26px;
   font-weight: 500;
@@ -409,7 +422,7 @@ ul {
   display: contents;
 }
 .back-header .back-menus > li > a {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 .back-header .back-menus li a {
   color: #091524;
@@ -2150,13 +2163,19 @@ ul {
   line-height: 20px;
   color: #4b4c57;
 }
-.event__card--icon-area {
-  position: relative;
-}
-.event__card--icon-line {
-  position: relative;
-}
 .event__card--icon-line1 {
+  position: relative;
+}
+.event__card--icon-line2 {
+  position: relative;
+}
+.event__card--icon-line3 {
+  position: relative;
+}
+.event__card--icon-line4 {
+  position: relative;
+}
+.event__card--icon-line5 {
   position: relative;
 }
 .event__card--icon-line6 {
@@ -2172,7 +2191,7 @@ ul {
   position: relative;
 }
 
-.event__card--icon-area::before {
+.event__card--icon-line1::before {
   position: absolute;
   display: inline-block;
   content: "";
@@ -2182,23 +2201,42 @@ ul {
   border-left: 1px solid rgb(15, 22, 41);
   height: 60px;
 }
-
-.event__card--icon-line::before {
+.event__card--icon-line2::before {
   position: absolute;
   display: inline-block;
   content: "";
   top: 20%;
-  left: -24px;
+  left: -23px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
   height: 60px;
 }
-.event__card--icon-line1::before {
+.event__card--icon-line3::before {
   position: absolute;
   display: inline-block;
   content: "";
   top: 20%;
-  left: -25px;
+  left: -23px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+.event__card--icon-line4::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -23px;
+  bottom: 10%;
+  border-left: 1px solid rgb(15, 22, 41);
+  height: 60px;
+}
+.event__card--icon-line5::before {
+  position: absolute;
+  display: inline-block;
+  content: "";
+  top: 20%;
+  left: -23px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
   height: 60px;
@@ -2208,7 +2246,7 @@ ul {
   display: inline-block;
   content: "";
   top: 10%;
-  left: -25px;
+  left: -23px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
   height: 140px;
@@ -2218,7 +2256,7 @@ ul {
   display: inline-block;
   content: "";
   top: 20%;
-  left: -25px;
+  left: -20px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
   height: 60px;
@@ -2228,20 +2266,10 @@ ul {
   display: inline-block;
   content: "";
   top: 20%;
-  left: -23px;
-  bottom: 10%;
+  left: -24px;
+  bottom: 2=10%;
   border-left: 1px solid rgb(15, 22, 41);
-  height: 80px;
-}
-.event__card--icon-uia::before {
-  position: absolute;
-  display: inline-block;
-  content: "";
-  top: 20%;
-  left: -23px;
-  bottom: 10%;
-  border-left: 1px solid rgb(15, 22, 41);
-  height: 80px;
+  height: 90px;
 }
 .event__card--icon-uib::before {
   position: absolute;
@@ -2269,7 +2297,20 @@ ul {
   color: #000000;
   padding-top: 50%;
   padding-right: 250px;
-
+}
+.event__card--icon-area-1b {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000000;
+  padding-top: 50%;
+  padding-right: 320px;
+}
+.event__card--icon-area-1c {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000000;
+  padding-top: 50%;
+  padding-right: 250px;
 }
 .event__card--icon-area-2 {
   font-size: 14px;
@@ -2281,7 +2322,7 @@ ul {
   height: 17px;
 }
 .event__card--icon-area-3 {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
@@ -2289,6 +2330,51 @@ ul {
   margin: 0;
 }
 .event__card--icon-area-4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  padding-right: 120px;
+  margin: 0;
+}
+.event__card--icon-area-5 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 25px;
+}
+.event__card--icon-area-6 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 50px;
+}
+.event__card--icon-area-7 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 40px;
+}
+.event__card--icon-area-8 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #020334;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin: 0;
+  padding-right: 55px;
+}
+.event__card--icon-area-ui {
   font-size: 12px;
   font-weight: 400;
   color: #020334;
@@ -2296,32 +2382,21 @@ ul {
   padding-bottom: 30px;
   margin: 0;
 }
-.event__card--icon-area-5 {
-  font-size: 15px;
+.event__card--icon-area-uia {
+  font-size: 12px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
   padding-bottom: 30px;
   margin: 0;
-  padding-right: 110px
 }
-.event__card--icon-area-7 {
-  font-size: 15px;
+.event__card--icon-area-uib {
+  font-size: 12px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
   padding-bottom: 30px;
   margin: 0;
-  padding-right: 40px
-}
-.event__card--icon-area-8 {
-  font-size: 15px;
-  font-weight: 400;
-  color: #020334;
-  padding-top: 2px;
-  padding-bottom: 30px;
-  margin: 0;
-  padding-right: 1px
 }
 
 .event__card--btn {
@@ -2348,9 +2423,15 @@ ul {
 .event__small-paragraph--link:hover {
   color: #2a6df5;
 }
+.event__gif-btn .gif-background {
+  position: relative;
+  height: 800px;
+  width: 800px;
+  
+}
 .event__video-btn .image-background {
   position: relative;
-  height: 600px;
+  height: 525px;
   width: 370px;
 }
 .event__video-btn--play {
@@ -4254,9 +4335,11 @@ ul {
   font-size: 16px;
   font-weight: 500;
   color: #2a6df5;
+  margin-top: -200px;
 }
 .back-blog__area .blog__width {
-  max-width: 1200px;
+  max-width: 1400px;
+  margin-top: 50px;
 }
 .back-blog__area .blog__title {
   font-size: 40px;
