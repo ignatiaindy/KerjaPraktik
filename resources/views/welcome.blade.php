@@ -423,12 +423,7 @@
                                             </div>
                                         </div>
                                     </div>
-
-                                <div class="event__video-btn text-end">
-                                    <img class="m-img gif-background" src="assets/images/event/1.gif" alt="Video Image">
                                 </div>
-                            </div>
-                                    
                                 </div>
                             </div>
                             

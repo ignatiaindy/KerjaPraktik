@@ -2259,7 +2259,7 @@ ul {
   left: -20px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
-  height: 60px;
+  height: 70px;
 }
 .event__card--icon-uia::before {
   position: absolute;
@@ -2269,7 +2269,7 @@ ul {
   left: -24px;
   bottom: 2=10%;
   border-left: 1px solid rgb(15, 22, 41);
-  height: 90px;
+  height: 100px;
 }
 .event__card--icon-uib::before {
   position: absolute;
@@ -2279,7 +2279,7 @@ ul {
   left: -25px;
   bottom: 10%;
   border-left: 1px solid rgb(15, 22, 41);
-  height: 60px;
+  height: 70px;
 }
 .event__card--icon-area-1 {
   font-size: 14px;
@@ -2292,21 +2292,21 @@ ul {
   height: 17px;
 }
 .event__card--icon-area-1a {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   color: #000000;
   padding-top: 50%;
   padding-right: 250px;
 }
 .event__card--icon-area-1b {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   color: #000000;
   padding-top: 50%;
   padding-right: 320px;
 }
 .event__card--icon-area-1c {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   color: #000000;
   padding-top: 50%;
@@ -2375,7 +2375,7 @@ ul {
   padding-right: 55px;
 }
 .event__card--icon-area-ui {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
@@ -2383,7 +2383,7 @@ ul {
   margin: 0;
 }
 .event__card--icon-area-uia {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
@@ -2391,7 +2391,7 @@ ul {
   margin: 0;
 }
 .event__card--icon-area-uib {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   color: #020334;
   padding-top: 2px;
@@ -2423,15 +2423,9 @@ ul {
 .event__small-paragraph--link:hover {
   color: #2a6df5;
 }
-.event__gif-btn .gif-background {
-  position: relative;
-  height: 800px;
-  width: 800px;
-  
-}
 .event__video-btn .image-background {
   position: relative;
-  height: 525px;
+  height: 600px;
   width: 370px;
 }
 .event__video-btn--play {
@@ -4335,11 +4329,9 @@ ul {
   font-size: 16px;
   font-weight: 500;
   color: #2a6df5;
-  margin-top: -200px;
 }
 .back-blog__area .blog__width {
-  max-width: 1400px;
-  margin-top: 50px;
+  max-width: 1200px;
 }
 .back-blog__area .blog__title {
   font-size: 40px;
