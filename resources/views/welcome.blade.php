@@ -337,6 +337,7 @@
                                     <div class="event__content-wrapper mb-45">
                                         <h2 class="event__title">Syarat Pendaftaran</h2>
                                     </div>
+                                
                                     <div class="event__card-wrapper">
                                         <div class="event__card">
                                             <div class="event__card--date-area">
@@ -423,15 +424,18 @@
                                             </div>
                                         </div>
                                     </div>
+                                 </div>
+                             </div>
+                             <div class="event__video-btn text-end">
+                                    <img class="m-img image-background1" src="assets/images/event/1.gif" alt="Video Image">
+                                    <div class="event__video-btn--play">
+                                    </a>
+                                    </div>
                                 </div>
-                                </div>
-                            </div>
-                            
                         </div>
                     </div>
                 </div>
-               
-               
+            </div>           
                  <div class="event__area1 p-relative pb-100 pt-120">
                     <div class="container event__width">
                         <div class="row">

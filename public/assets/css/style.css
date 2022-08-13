@@ -700,15 +700,13 @@ ul {
   top: 280px;
   left: 900px;
   width: 500px;
-
-  
- 
   border-radius: 10px;
   -webkit-animation: slide-top 5500ms linear infinite alternate;
   animation: slide-top 5500ms linear infinite alternate;
 }
 .home-banner-part .back__hero__card .back__thumb {
   position: relative;
+ 
 }
 .home-banner-part .back__hero__card .back__thumb img {
   border-radius: 12px 12px 0 0;
@@ -2109,7 +2107,7 @@ ul {
 .event__area1 {
   
   background-color: #ffffff00;
-  margin-top: -80px;
+  margin-top: -600px;
   
   
 }
@@ -2128,11 +2126,13 @@ ul {
   margin-bottom: 38px;
 }
 .event__card-wrapper {
+  position: relative;
   border-radius: 10px;
   box-shadow: 0px 30px 50px 0px rgba(0, 15, 56, 0.1);
   background-color: #ffffff;
   margin-right: -460px;
   margin-left: 660px;
+  top: -50px;
 }
 .event__card-wrapper1 {
   border-radius: 10px;
@@ -2425,8 +2425,18 @@ ul {
 }
 .event__video-btn .image-background {
   position: relative;
+  
   height: 600px;
   width: 370px;
+}
+.event__video-btn .image-background1{
+  position: relative;
+  top: -700px;
+  right: 660px;
+  height: 500x;
+  width: 500px;
+  
+ 
 }
 .event__video-btn--play {
   position: absolute;
@@ -4208,7 +4218,7 @@ ul {
 }
 .academic__round-area-title-2 {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 24px;
   color: #4b4c57;
 }
