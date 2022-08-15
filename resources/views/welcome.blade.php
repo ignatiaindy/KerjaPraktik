@@ -593,22 +593,35 @@
                                 </div>
                             </div>
                         </div>
-                     </div>
-                 </div>
-             </div>
-        </div>
- </div>
-    <div class="testimonial bg-color-white testimonial-card-box-bg edu-section-gap position-relative bg-image">
-            <div class="container eduvibe-animated-shape">
-                <div class="row g-5">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
-                        <h2 class="back__tittle"> Apa Kata Alumni </h2>
+                           <!--================= Clients Section Start Here =================--> 
+                <div class="back-clients pt-120 pb-120">
+                    <div class="container">
+                        <div class="back__title__section text-center">
+                            <h2 class="back__tittle"> Apa Kata Alumni </h2>
+                        </div>
+                        <div class="container">
+                            <div class="client-slider owl-carousel">
+                                <div class="single-client">
+                                    <div class="client-bottom">
+                                        <span class="client-author"><img src="assets/images/testimonial/1.jpg" alt="Testimonials"> </span>
+                                    </div>
+                                    <span class="client-title">Yusuf  <em> Alumni Inosoft Bootcampt</em></span>
+                                    <div class="client-content">varius Nunc vehicula, sodales. viverra ipsum ex ullamcorper commodo Nam nisi nibh dui cursus Ut quis facilisis felis, Donec urna ultrices tincidunt faucibus faucibus tempor non luctus laoreet tincidunt nulla, dignissim, Nunc vitae quam in 
+                                    </div>                                
+                                </div>
+                                <div class="single-client">
+                                    <div class="client-bottom">
+                                        <span class="client-author"><img src="assets/images/testimonial/1.jpg" alt="Testimonials"> </span>
+                                    </div>
+                                    <span class="client-title">Sutomo <em> Alumni Inosoft Bootcampt</em></span>
+                                    <div class="client-content">varius Nunc vehicula, sodales. viverra ipsum ex ullamcorper commodo Nam nisi nibh dui cursus Ut quis facilisis felis, Donec urna ultrices tincidunt faucibus faucibus tempor non luctus laoreet tincidunt nulla, dignissim, Nunc vitae quam in 
+                                    </div>                                
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="edu-testimonial-activation testimonial-item-3 mt--40 edu-slick-button">
+                </div>             
+                <!--================= Clients Section End Here =================--> 
                
                                 
                               

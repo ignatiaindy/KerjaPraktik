@@ -2132,7 +2132,7 @@ ul {
   background-color: #ffffff;
   margin-right: -460px;
   margin-left: 660px;
-  top: -50px;
+  top: 10px;
 }
 .event__card-wrapper1 {
   border-radius: 10px;
@@ -2431,7 +2431,7 @@ ul {
 }
 .event__video-btn .image-background1{
   position: relative;
-  top: -700px;
+  top: -650px;
   right: 660px;
   height: 500x;
   width: 500px;
