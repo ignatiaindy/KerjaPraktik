@@ -210,9 +210,9 @@
                                     </div>
                                     <div class="academic__round-area-title text-center">
                                         <h6 class="academic__round-area-title-1"></h6>
-                                        <p class="academic__round-area-title-2">Materi Basic untuk Web Development
+                                        <p class="academic__round-area-title-2">
+                                            Materi Basic untuk <br>Web Development</br>
                                         </p>
-                                        
                                     </div>
                                 </div>
                             </div>
@@ -229,11 +229,19 @@
                                     </div>
                                     <div class="academic__round-area-title text-center">
                                         <h6 class="academic__round-area-title-1"></h6>
-                                        <p class="academic__round-area-title-2">Materi Advance untuk Web Development</p>
-                                        
+                                        <p class="academic__round-area-title-2">
+                                            Materi Advance untuk <br>Web Development</br>
+                                        </p>
                                     </div>
                                 </div>
+                        </div>
                             </div>
+                            <div class="container academic__width">
+                            <div class="row">
+                                <div class="col-xxl-6 offset-xxl-3 col-xl-6 offset-xl-3 col-lg-6 offset-lg-3">
+                                </div>
+                            </div>
+                            <div class="row">
                             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 mb-50">
                                 <div class="academic__container text-center">
                                     <div class="academic__wrapper">
@@ -247,9 +255,9 @@
                                     </div>
                                     <div class="academic__round-area-title text-center">
                                         <h6 class="academic__round-area-title-1"></h6>
-                                        <p class="academic__round-area-title-2">Komunikasi secara profesional menggunakan Bahasa Inggris
-                                            </p>
-                                        
+                                        <p class="academic__round-area-title-2">
+                                            Komunikasi secara profesional <br>menggunakan Bahasa Inggris</br>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -266,12 +274,13 @@
                                     </div>
                                     <div class="academic__round-area-title text-center">
                                         <h6 class="academic__round-area-title-1"></h6>
-                                        <p class="academic__round-area-title-2">Training Langsung dalam Project Inosoft</p>
-                                        
+                                        <p class="academic__round-area-title-2">
+                                            Training Langsung dalam <br>Project Inosoft</br>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                            </div>
                     </div>
                 </div>
                 <div>
@@ -593,7 +602,7 @@
                                 </div>
                             </div>
                         </div>
-                           <!--================= Clients Section Start Here =================--> 
+                <!--================= Clients Section Start Here =================--> 
                 <div class="back-clients pt-120 pb-120">
                     <div class="container">
                         <div class="back__title__section text-center">
@@ -622,8 +631,102 @@
                     </div>
                 </div>             
                 <!--================= Clients Section End Here =================--> 
-               
-                                
+                <!--================= Newsletter Section Start Here =================-->
+                <div class="newsletter__area">
+                    <div class="container newsletter__width">
+                        <div class="row">
+                            <div class="col-xxl-12">
+                                <div class="newsletter__wrapper">
+                                    <div class="newsletter__content">
+                                        <h2 class="newsletter__title">Newsletter to get <br> in touch</h2>
+                                    </div>
+                                    <div class="newsletter__form">
+                                        <form>
+                                            <input type="email" placeholder="Your Email">
+                                            <button type="submit">Subscribe</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!--================= Newsletter Section End Here =================-->
+
+        <!--================= Footer Section Start Here =================-->
+        <footer id="back-footer" class="back-footer">
+            <div class="footer-top">
+            <div class="home-banner-part1">
+                    <div class="banner-img">
+                        <img class="desktop" src="assets/images/banner/slide2.png" alt="Banner Image">
+                    
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 md-mb-60">
+                            <div class="footer-widget footer-widget-1">
+                                <div class="footer-logo">
+                                    <a href="index.html" class="logo-text"> <img src="assets/images/logo1.png" alt="logo"></a>
+                                </div>
+                                <h5 class="back-follow-us">We have lots of courses and programs from the main market experts.</h5>
+                                <h6 class="back-follow-us">Follow us</h6>
+                                <ul class="social-links">
+                                    <li><a href="#"><span aria-hidden="true" class="social_facebook"></span></a></li>
+                                    <li><a href="#"><span aria-hidden="true" class="social_twitter"></span></a></li>
+                                    <li><a href="#"><span aria-hidden="true" class="social_linkedin"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 md-mb-30">
+                            <div class="footer-widget footer-widget-2">
+                                <h3 class="footer-title">About Us</h3>
+                                <div class="footer-menu">
+                                    <ul>
+                                        <li><a>Inosoft Bootcamp adalah pelatihan selama 10 minggu yang diadakan Inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 md-mb-30">
+                            <div class="footer-widget footer-widget-2">
+                                <h3 class="footer-title">blog</h3>
+                                <div class="footer-menu">
+                                    <ul>
+                                        <li><a href="#">Artikel</a></li>
+                                        <li><a href="#">Dokumentasi</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div class="col-lg-3 md-mb-30">
+                            <div class="footer-widget footer-widget-2">
+                                <h3 class="footer-title">blog</h3>
+                                <div class="footer-menu">
+                                    <ul>
+                                        <li><a href="#">Artikel</a></li>
+                                        <li><a href="#">Dokumentasi</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        </div>
+            
+                    </div>
+                </div>
+            </div>
+            
+            <div class="copyright">  
+                <div class="container">                  
+                    <div class="back-copy-left">@2022 All Copyright Reserved. Developed by Inosoft</a></div>
+                    <div class="back-copy-right">
+                        <ul>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms And Conditions</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>           
                               
                         
 
