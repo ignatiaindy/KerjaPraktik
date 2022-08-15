@@ -667,19 +667,19 @@
                                 <div class="footer-logo">
                                     <a href="index.html" class="logo-text"> <img src="assets/images/logo1.png" alt="logo"></a>
                                 </div>
-                                <h5 class="back-follow-us">We have lots of courses and programs from the main market experts.</h5>
+                                <h5 class="back-follow-us1">We have lots of courses and programs from the main market experts.</h5>
                                 <h6 class="back-follow-us">Follow us</h6>
                                 <ul class="social-links">
-                                    <li><a href="#"><span aria-hidden="true" class="social_facebook"></span></a></li>
-                                    <li><a href="#"><span aria-hidden="true" class="social_twitter"></span></a></li>
-                                    <li><a href="#"><span aria-hidden="true" class="social_linkedin"></span></a></li>
+                                    <li><a href="#"><span aria-hidden="true" class="social_whatshapp"></span></a></li>
+                                    <li><a href="#"><span aria-hidden="true" class="social_instagram"></span></a></li>
+                                    li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-3 md-mb-30">
                             <div class="footer-widget footer-widget-2">
-                                <h3 class="footer-title">About Us</h3>
-                                <div class="footer-menu">
+                                <h3 class="footer-title1">About Us</h3>
+                                <div class="footer-menu1">
                                     <ul>
                                         <li><a>Inosoft Bootcamp adalah pelatihan selama 10 minggu yang diadakan Inosoft Trans Sistem untuk mengembangkan talent baru dibidang IT</a></li>
                                     </ul>
@@ -688,8 +688,8 @@
                         </div>
                         <div class="col-lg-3 md-mb-30">
                             <div class="footer-widget footer-widget-2">
-                                <h3 class="footer-title">blog</h3>
-                                <div class="footer-menu">
+                                <h3 class="footer-title2">Blog</h3>
+                                <div class="footer-menu2">
                                     <ul>
                                         <li><a href="#">Artikel</a></li>
                                         <li><a href="#">Dokumentasi</a></li>
@@ -700,11 +700,11 @@
                         </div>
                         <div class="col-lg-3 md-mb-30">
                             <div class="footer-widget footer-widget-2">
-                                <h3 class="footer-title">blog</h3>
+                                <h3 class="footer-title">Bootcamp</h3>
                                 <div class="footer-menu">
                                     <ul>
-                                        <li><a href="#">Artikel</a></li>
-                                        <li><a href="#">Dokumentasi</a></li>
+                                        <li><a href="#">Frontend</a></li>
+                                        <li><a href="#">Backend</a></li>
                                     </ul>
                                 </div>
                             </div>

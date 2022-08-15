@@ -642,7 +642,7 @@ ul {
   max-width: 1430px;
 }
 .banner-img {
-  margin-top: -30px;
+  margin-top: 0px;
   color: rgba(255, 255, 255, 0);
   }
 .home-banner-part1 .container {
@@ -7577,6 +7577,7 @@ ul {
   position: relative;
   width: 1600px;
   right: 180px;
+  margin-left: -5px;
   margin-bottom: -900px;
 
 }
@@ -7585,8 +7586,35 @@ ul {
 }
 .back-footer .footer-top .footer-menu li {
   margin-bottom: 9px;
+  
+}
+.back-footer .footer-top .footer-menu1 li {
+  margin-bottom: 9px;
+  margin-left: 100px;
+  
+}
+.back-footer .footer-top .footer-menu2 li {
+  margin-bottom: 9px;
+  margin-left: 100px;
+  
 }
 .back-footer .footer-top .footer-menu li a {
+  color: #ffffff;
+  position: relative;
+  display: inline-block;
+  transition: all 0.5s ease 0s;
+  font-size: 16px;
+  font-weight: 500;
+}
+.back-footer .footer-top .footer-menu1 li a {
+  color: #ffffff;
+  position: relative;
+  display: inline-block;
+  transition: all 0.5s ease 0s;
+  font-size: 16px;
+  font-weight: 500;
+}
+.back-footer .footer-top .footer-menu2 li a {
   color: #ffffff;
   position: relative;
   display: inline-block;
@@ -7654,12 +7682,21 @@ ul {
   margin-bottom: 30px;
   margin-top: -250px;
   line-height: 1.5;
+
 }
 .back-footer .footer-top .footer-widget .back-follow-us {
   color: #ffffff;
   font-size: 16px;
   font-weight: 800;
   margin: 0 0 20px;
+  margin-top: 100px;
+}
+.back-footer .footer-top .footer-widget .back-follow-us1 {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0 0 20px;
+  margin-top: 30px;
 }
 .back-footer .footer-top .footer-widget .footer-title {
   margin-bottom: 30px;
@@ -7667,6 +7704,24 @@ ul {
   color: #ffffff;
   font-size: 20px;
   font-weight: 800;
+  margin-top: -350px;
+}
+.back-footer .footer-top .footer-widget .footer-title1 {
+  margin-bottom: 30px;
+  position: relative;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 800;
+  margin-left: 100px;
+  margin-top: -350px;
+}
+.back-footer .footer-top .footer-widget .footer-title2 {
+  margin-bottom: 30px;
+  position: relative;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 800;
+  margin-left: 100px;
   margin-top: -350px;
 }
 .back-footer .footer-top .footer-widget .footer-address {
@@ -7679,11 +7734,14 @@ ul {
   display: inline-flex;
   color: #abb0ba;
   font-weight: 500;
+  
+  
 }
 .back-footer .footer-top .footer-widget .footer-address li a {
   color: #abb0ba;
-  margin-left: 10px;
+  margin-left: 50px;
   line-height: 1.1;
+  
 }
 .back-footer .footer-top .footer-widget .footer-address li a:hover {
   color: #ffffff;
